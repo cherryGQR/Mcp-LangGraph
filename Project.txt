@@ -1,0 +1,7 @@
+mcp-demo/
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── client_demo.py
+├── math_server_demo.py
+└── weather_server_demo.py
